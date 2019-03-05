@@ -1,0 +1,15 @@
+{
+  "pagamento":{
+    "forma_de_pagamento":"tantofaz",
+    "valor":21.32 ,
+    "moeda":"BRR",
+    "descricao":"pagamento brasilzao"
+  },
+  "cartao":{
+    "numero":1234123412341234,
+    "bandeira":"visa",
+    "ano_de_expiracao":2016,
+    "mes_de_expiracao":12,
+    "cvv":123
+  }
+}
